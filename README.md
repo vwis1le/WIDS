@@ -130,10 +130,3 @@ Top Random Forest feature importances: `deauth` (37%), `deauth_ratio`
 - Trained and evaluated on one own-network capture; not yet validated
   against a public dataset such as AWID3.
 
-## AI assistance
-
-Claude (Anthropic) was used to scaffold the Python pipeline, troubleshoot
-the capture environment, and help debug issues found during real-data
-testing (including the MAC-spoofing labelling problem described above).
-All data capture, attacks, and result interpretation were carried out by
-the author on an authorised personal testbed.
